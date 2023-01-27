@@ -16,3 +16,4 @@ jobs:
           chmod +x ./test/unit-tests.sh
           ./test/unit-tests.sh
         shell: bash
+
