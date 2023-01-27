@@ -17,5 +17,3 @@ jobs:
           ./test/unit-tests.sh
         shell: bash
 
-
-
